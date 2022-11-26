@@ -19,5 +19,8 @@
   "homepage": "https://github.com/bea00811/hexlet#readme",
   "dependencies": {
     "lodash": "^4.17.21"
+  },
+  "devDependencies": {
+    "prettier": "^2.8.0"
   }
 }

@@ -1,8 +1,14 @@
-import _ from 'lodash'
+import _ from "lodash";
 
-console.log('Hello me!!!');
+console.log("Hello me!!!");
 
-console.log('hhhhhh');
+console.log("hhhhhh");
+
+console.log(_.last(["one", "two"]));
+
+function test() {
 
 
-console.log(_.last(['one', 'two']));
+  
+  return 2 + 3 === 0;
+}
